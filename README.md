@@ -1,6 +1,6 @@
-# resume
+# resume building app
 Resume Build For Begineers :->
-
+this app was made during hackoverflow a hackthon organised by IIT jodhpur
 This application is made by bigenners for bigenners.This is a user
  friendly web application .This helps the beginners to creat an 
  attractive and more effictive resume with the help of
